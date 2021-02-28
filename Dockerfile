@@ -1,1 +1,1 @@
-gcr.io/kubeflow-images-public/tf_operator:vmaster-ga2ae7bff
+FROM gcr.io/kubeflow-images-public/tf_operator:vmaster-ga2ae7bff
